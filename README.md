@@ -4,7 +4,7 @@ LiTS - Liver Tumor Segmentation Challenge [[Link](https://competitions.codalab.o
 
 
 
-## Result Example (These data wasn't used in training.)
+## Result Example (These images weren't used in training.)
 
 - __Good__
 1. volume-25
