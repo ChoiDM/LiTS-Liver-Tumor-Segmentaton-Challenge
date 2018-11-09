@@ -4,5 +4,12 @@ LiTS - Liver Tumor Segmentation Challenge [[Link](https://competitions.codalab.o
 
 
 
-## Result Example
+## Result Example (These data doesn't used in training.)
+
+![My image](result/result5.png "volume-25 (Good)")
+![My image](result/result3.png "volume-26 (Good)")
+![My image](result/result1.png "volume-27 (Good)")
+![My image](result/result6.png "volume-25 (Bad)")
+![My image](result/result4.png "volume-26 (Bad)")
+![My image](result/result2.png "volume-27 (Bad)")
 
