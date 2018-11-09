@@ -26,3 +26,9 @@ LiTS - Liver Tumor Segmentation Challenge [[Link](https://competitions.codalab.o
 3. volume-27
 ![My image](result/result2.png "volume-27 (Bad)")
 
+
+
+## The remaining tasks
+
+1. Data Augmentation
+2. Liver Segmentation
